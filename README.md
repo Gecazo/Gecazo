@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/Gecazo/Gecazo/blob/main/resources/giphy.gif" width="480px"/>
+<img align="right" alt="GIF" src="https://github.com/Gecazo/Gecazo/blob/main/resources/giphy.gif" width="230px"/>
 
 - 🔭 I’m currently working on Program to Draw Portraits with Thread
 - 📚 I’m currently learning Data Science, AI, Statistics
