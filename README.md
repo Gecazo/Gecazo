@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Gecazo/Gecazo/blob/main/resources/giphy.gif" width="230px"/>
 
-- 🔭 I’m currently working on Program to Draw Portraits with Thread
+- 🔭 I’m currently working on Program to Draw Portraits with Thread using AI
 - 📚 I’m currently learning Data Science, AI, Statistics
 - 👯 I’m looking to collaborate on Custom Operating Systems for Raspberry Pi
 
