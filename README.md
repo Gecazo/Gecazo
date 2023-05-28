@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <img align="right" alt="GIF" src="https://github.com/Gecazo/Gecazo/blob/main/resources/giphy.gif" width="230px"/>
 
