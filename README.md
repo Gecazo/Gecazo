@@ -4,8 +4,8 @@
 
 
 ## 🔨 Languages and Tools:
-<a href="https://cplusplus.com/" target="_blank"> <img align="left" src="https://github.com/Gecazo/Gecazo/blob/main/resources/cpp-cropped.svg" alt="cpp" height="64px"/> </a> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img align="left" src="https://github.com/Gecazo/Gecazo/blob/main/resources/c.svg" alt="c" height="64px"/> </a> 
+<a href="https://cplusplus.com/" target="_blank"> <img align="left" src="https://github.com/Gecazo/Gecazo/blob/main/resources/cpp-cropped.svg" alt="cpp" height="64px"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://github.com/Gecazo/Gecazo/blob/main/resources/icons8-python-64-3.png" alt="python" height="64px"/> </a> 
 <a href="https://www.linux.org" target="_blank"> <img align="left" src="https://github.com/Gecazo/Gecazo/blob/main/resources/icons8-linux-64-2.png" alt="linux" height="64px"/> </a> 
 <a href="https://www.docker.com" target="_blank"> <img align="left" src="https://github.com/Gecazo/Gecazo/blob/main/resources/icons8-docker-64.png" alt="docker" height="64px"/> </a> 
